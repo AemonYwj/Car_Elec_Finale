@@ -1,4 +1,1 @@
-Record=TopLevelDocument|FileName=74HC595_use.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=74HC595_use.SchDoc|FileName=MotherBoard.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=74HC595_use.SchDoc|FileName=SX1278.sch|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=74HC595_use.SchDoc|FileName=SX1278_STM32.SchDoc|SheetNumber=4
+Record=TopLevelDocument|FileName=MotherBoard.SchDoc|SheetNumber=1
